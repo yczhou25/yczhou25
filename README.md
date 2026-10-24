@@ -1,7 +1,7 @@
 ### Hi, I'm Yichuan Zhou 👋
 
-Undergraduate in Electronic Information Engineering at the University of Electronic Science and Technology of China (UESTC). I work on **AI infrastructure**: LLM inference engines (KV cache, prefix caching, scheduling, speculative decoding) and the hardware underneath them.
-电子科技大学（985）电子信息工程本科。我做 AI infra：大模型推理引擎（KV cache、前缀缓存、调度、投机解码）和它下面的硬件。
+Undergraduate in Electronic Information Engineering at the University of Electronic Science and Technology of China (UESTC), currently pursuing a master's degree in Integrated Circuits at Nanyang Technological University, Singapore. Recording my work on AI infrastructure: large model inference engine (KV cache, prefix caching, scheduling, speculative decoding) and the underlying hardware—looking forward to learning and exchanging ideas with all of you.
+电子科技大学（985）电子信息工程本科，目前在新加坡南洋理工大学集成电路读硕士。记录做 AI infra：大模型推理引擎（KV cache、前缀缓存、调度、投机解码）和它下面的硬件，希望多多跟各位大佬学习交流。
 
 #### Upstream contributions
 - **[vLLM](https://github.com/vllm-project/vllm)**
